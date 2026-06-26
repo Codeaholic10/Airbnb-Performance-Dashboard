@@ -16,17 +16,3 @@ Current files:
 - `reports/airbnb.pbix`
 - `docs/airbnb.pdf`
 
-## Dashboard Preview
-
-To show dashboard images in this README, place the image files in a folder such as `docs/images/` and use Markdown image syntax:
-
-```md
-![Dashboard overview](docs/images/dashboard-overview.png)
-```
-
-If you want multiple screenshots, add one line per image:
-
-```md
-![Listings dashboard](docs/images/listings-dashboard.png)
-![Reviews dashboard](docs/images/reviews-dashboard.png)
-```
