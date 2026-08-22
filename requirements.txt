@@ -1,0 +1,9 @@
+# Data Analysis & Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization & Notebooks
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+notebook>=7.0.0
